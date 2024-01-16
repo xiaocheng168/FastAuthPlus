@@ -1,0 +1,7 @@
+name: FastAuthPlus
+version: 1.0.0
+main: cc.mcyx.fastauthplus.FastAuthPlus
+author: Zcc
+description: 一个简单的GUI快捷登录插件
+depend:
+  - Authme
